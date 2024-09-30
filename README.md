@@ -1,4 +1,4 @@
 # test-csc307-merging
-This is Milad's first change to the file
+conflict change to test
 
 test change for practice example
